@@ -23,7 +23,7 @@
         <nav class="navbar navbar-expand-lg navbar-light">
           <div class="collapse navbar-collapse" id="navbar">
             <a href="/" class="navbar-brand">
-              <img src="/img/hdcmovies_logo.svg" alt="RAFLIX">
+              <img src="/img/hdcmovies_logo.svg" alt="TRAILERFLIX">
             </a>
             <ul class="navbar-nav">
               <li class="nav-item">
